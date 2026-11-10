@@ -107,7 +107,7 @@ stock_price_prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/marwan2627/tata-motors-stock-price-prediction.git
 ```
 
 ### 2. Navigate to the Project Folder
